@@ -2,7 +2,8 @@ html,
 body {
   width: 100%;
   overflow-x: hidden;
-font-family: 'Source Sans Pro', sans-serif;  background-color: #8B0000;
+  font-family: 'Roboto Condensed', sans-serif;  
+  background-color: #8B0000;
   font-weight: 200;
 }
 
@@ -29,7 +30,7 @@ a {
   -webkit-box-shadow: 0px 1px 0px 0px rgba(219,219,219,1);
   -moz-box-shadow: 0px 1px 0px 0px rgba(219,219,219,1);
   box-shadow: 0px 1px 0px 0px rgba(219,219,219,0.75);
-  background-color: #FFCC33;
+  background-color: #FFD700;
 }
 .navbar-nav {
   z-index:20;
@@ -107,7 +108,7 @@ display: block;
 }
 
 #title {
-    font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
     margin: 20px;
     color: #000000;
     text-align: center;
@@ -176,7 +177,7 @@ img {
   }
   .subtitle {
     font-size:14px;
-    color: #FFCC33;
+    color: #FFD700;
   }
   .navbar {
   text-align: left;
@@ -235,8 +236,8 @@ img {
     font-size:14px;
     padding-left: 60px; 
     font-weight: 300;
-    font-family: 'Source Sans Pro', sans-serif;
-    color: #FFCC33;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #FFD700;
   }
 }
 
@@ -248,25 +249,25 @@ img {
 
 hr {
   height: 1px;
-  color: #FFCC33;
-  background-color: #FFCC33;
+  color: #FFD700;
+  background-color: #FFD700;
   border: none;
 }
 
 li {
-font-family: 'Source Sans Pro', sans-serif;  font-size: 15px;
+  font-family: 'Roboto Condensed', sans-serif;  font-size: 15px;
   letter-spacing: .15em;
   font-weight: 300;
 }
 
 p {
-font-family: 'Source Sans Pro', sans-serif;  font-size: 17px;
+  font-family: 'Roboto Condensed', sans-serif;  font-size: 17px;
   font-weight: 100;
   color: #000000
 }
 
 td {
-  font-family: 'Source Sans Pro', sans-serif;  
+  font-family: 'Roboto Condensed', sans-serif;  
   font-size: 17px;
   font-weight: 100;
   color: #000000;
@@ -294,7 +295,7 @@ hr {
 #home-footer{
   margin-top:10px;
   white-space:nowrap;
-font-family: 'Source Sans Pro', sans-serif;  font-weight: 100;
+  font-family: 'Roboto Condensed', sans-serif;  font-weight: 100;
 }
 
 .links {
@@ -316,9 +317,9 @@ a:hover {
 }
 
 #header {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 14px;
-  color: #FFCC33;
+  color: #FFD700;
   letter-spacing: .10em;
   font-weight: 300;
 }
@@ -338,13 +339,13 @@ a:hover {
 }
 
 .category-title {
-font-family: 'Source Sans Pro', sans-serif;  font-size:26px;
+  font-family: 'Roboto Condensed', sans-serif;  font-size:26px;
   font-weight:400;
   letter-spacing: .15em;
 }
 
 .subcategory-title {
-font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size:18px;
   font-weight:400;
   letter-spacing: .15em;
@@ -357,7 +358,7 @@ font-family: 'Source Sans Pro', sans-serif;
 
 .link {
   text-decoration: none;
-  color: #8b0000;
+  color: #8B0000;
   font-weight: 300;
   text-align: center;
 }
@@ -368,7 +369,7 @@ font-family: 'Source Sans Pro', sans-serif;
 }
 
 .link:visited {
-  color:#8b0000;
+  color:0;
   text-decoration: none !important;
   font-weight: 300;
 }
@@ -400,21 +401,21 @@ font-family: 'Source Sans Pro', sans-serif;
 }
 
 .TextBox {
-  background-color: #FFCC33;
+  background-color: #FFD700;
   padding: 10px;
   border-radius: 10px;
   text-align:center
 }
 
 .FullRow {
-  background-color: #FFCC33;
+  background-color: #FFD700;
   text-align:center;
   width: 100%;
 }
 
 section#contact {
     margin-top: 10px;
-    background-color: #ffcc33;
+    background-color: #FFD700;
     background-image: url('../Images/Contact.jpg');
     background-position: center;
     background-repeat: no-repeat;
